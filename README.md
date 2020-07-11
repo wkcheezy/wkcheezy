@@ -1,16 +1,50 @@
-### Hi there 👋
+# Hail friend! 👋
 
-<!--
-**wkcheezy/wkcheezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is William Kuzniarz (he/him) and I'm an Information Technology student 👨‍🎓 based in Ottawa, Canada 🍁 with a love for all things design ✏📐 and development 💻. I’m currently working at **Employment and Social Development Canada (ESDC)** as a Junior Analyst in their Cloud Center of Excellence (CCoE) ☁
 
-Here are some ideas to get you started:
+## ☎️ Contact information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 [Email address](wkhappiness@gmail.com)
+
+🐦 [Twitter](https://twitter.com/wkcheezy)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/william-kuzniarz-455b0414a/)
+
+---
+
+## 🔭 Stuff I've made
+
+### [Bodysnatcher](https://github.com/wkcheezy/Bodysnatcher)
+
+A quick demo of fetching a website's body title and text, and then returning it.
+
+### [TLDRBot](https://github.com/wkcheezy/TLDRBot)
+
+A bot using open source Natural Language Processing (NLP) libraries and Azure that scans a given URL and allows for queried questions about the contents of that page.
+
+---
+
+## 🛠 Skills
+
+### 🌳 Learnt
+
+- 🖼 Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, etc.)
+- ➕ C and C++
+- 🎮 Unity and Unreal Engine 4
+- ♨ Java
+- 🌐 HTML and CSS
+
+### 🌱 Learning
+
+- ☕ Javascript
+- 🐍 Python
+- 🎨 SASS and Less
+- ⛅ Azure
+
+---
+
+## 📚 Education
+
+### **Bachelor's Degree in Information Technology, Interactive Multimedia Design** - *2022 (in progress)*
+
+Carleton University - Ottawa, Ontario
