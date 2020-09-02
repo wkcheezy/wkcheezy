@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wkcheezy/wkcheezy/issues"
   },
-  "homepage": "https://github.com/wkcheezy/wkcheezy#readme"
+  "homepage": "https://github.com/wkcheezy/wkcheezy#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
 }
