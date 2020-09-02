@@ -1,0 +1,19 @@
+{
+  "name": "wkcheezy",
+  "version": "1.0.0",
+  "description": "Personal README for wkcheezy",
+  "main": "main.mustache",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkcheezy/wkcheezy.git"
+  },
+  "author": "William Kuzniarz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkcheezy/wkcheezy/issues"
+  },
+  "homepage": "https://github.com/wkcheezy/wkcheezy#readme"
+}
