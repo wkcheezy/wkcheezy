@@ -7,16 +7,15 @@ const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
-    name: 'Thomas',
-    date: new Date().toLocaleDateString('en-GB', {
-        weekday: 'long',
-        month: 'long',
-        day: 'numeric',
-        hour: 'numeric',
-        minute: 'numeric',
-        timeZoneName: 'short',
-        timeZone: 'Europe/Stockholm',
-    }),
+    name: 'William Kuzniarz',
+    pronouns: 'he/him',
+    occupation: 'an Information Technology student 👨‍🎓',
+    location: 'Ottawa, Canada 🍁',
+    current_job: 'Employment and Social Development Canada (ESDC) as a Junior Analyst in their Cloud Center of Excellence (CCoE) ☁',
+    past_jobs: false,
+    email: 'wkhappiness@gmail.com',
+    twitter: 'https://twitter.com/wkcheezy',
+    linkedin: 'https://www.linkedin.com/in/william-kuzniarz-455b0414a/'
 };
 
 function generateReadMe() {
